@@ -1,0 +1,111 @@
+{
+    "mochilas": [
+        {
+            "nombre":"Mochila verde militar",
+            "clave":"MC-008",
+            "precio":"240",
+            "precioNormal":"270",
+            "isNew":true,
+            "img":"img/productos/product-8.jpg"
+        },
+        {
+            "nombre":"Mochila verde",
+            "clave":"MC-009",
+            "precio":"185",
+            "precioNormal":"220",
+            "isNew":true,
+            "img":"img/productos/product-9.jpg"
+        }, {
+            "nombre":"Mochila verde claro",
+            "clave":"MC-010",
+            "precio":"185",
+            "precioNormal":"220",
+            "isNew":true,
+            "img":"img/productos/product-10.jpg"
+        },{
+            "nombre":"Mochila verde oscuro",
+            "clave":"MC-011",
+            "precio":"185",
+            "precioNormal":"220",
+            "isNew":true,
+            "img":"img/productos/product-11.jpg"
+        },{
+            "nombre":"Mochila verde claro",
+            "clave":"MC-012",
+            "precio":"185",
+            "precioNormal":"220",
+            "isNew":true,
+            "img":"img/productos/product-12.jpg"
+        },{
+            "nombre":"Mochila verde lisa",
+            "clave":"MC-013",
+            "precio":"185",
+            "precioNormal":"220",
+            "isNew":true,
+            "img":"img/productos/product-13.jpg"
+        },{
+            "nombre":"Mochila verde oscura",
+            "clave":"MC-014",
+            "precio":"185",
+            "precioNormal":"220",
+            "isNew":true,
+            "img":"img/productos/product-14.jpg"
+        }
+    ],
+    "mascaras":[
+        {
+            "nombre":"Mascara táctica(Goggles)",
+            "clave":"MK-001",
+            "precio":"240",
+            "precioNormal":"280",
+            "isNew":true,
+            "img":"img/productos/product-1.jpg"
+        },{
+            "nombre":"Mascara táctica(Goggles)",
+            "clave":"MK-002",
+            "precio":"240",
+            "precioNormal":"280",
+            "isNew":true,
+            "img":"img/productos/product-2.jpg"
+        },{
+            "nombre":"Mascara táctica(Goggles)",
+            "clave":"MK-003",
+            "precio":"240",
+            "precioNormal":"280",
+            "isNew":true,
+            "img":"img/productos/product-3.jpg"
+        },{
+            "nombre":"Mascara táctica(Goggles)",
+            "clave":"MK-004",
+            "precio":"240",
+            "precioNormal":"280",
+            "isNew":true,
+            "img":"img/productos/product-4.jpg"
+        },{
+            "nombre":"Mascara táctica(Goggles)",
+            "clave":"MK-005",
+            "precio":"240",
+            "precioNormal":"280",
+            "isNew":true,
+            "img":"img/productos/product-5.jpg"
+        },{
+            "nombre":"Mascara táctica(Goggles)",
+            "clave":"MK-006",
+            "precio":"240",
+            "precioNormal":"280",
+            "isNew":true,
+            "img":"img/productos/product-6.jpg"
+        }
+
+    ],
+    "lamparas":[
+        {
+            "nombre":"Lampara táctica de larga duración",
+            "clave":"LP-001",
+            "precio":"350",
+            "precioNormal":"380",
+            "isNew":true,
+            "img":"img/productos/product-7.jpg"
+        }
+    ]
+}
