@@ -1,7 +1,7 @@
 {
     "mochilas": [
         {
-            "nombre":"Mochila verde militar",
+            "nombre":"piernera caqui militar",
             "clave":"MC-008",
             "precio":"240",
             "precioNormal":"270",
@@ -9,35 +9,35 @@
             "img":"img/productos/product-8.jpg"
         },
         {
-            "nombre":"Mochila caqui",
+            "nombre":"Mochila gris",
             "clave":"MC-009",
             "precio":"185",
             "precioNormal":"220",
             "isNew":true,
             "img":"img/productos/product-9.jpg"
         }, {
-            "nombre":"Mochila gris",
+            "nombre":"Mochila marrón camuflaje",
             "clave":"MC-010",
             "precio":"185",
             "precioNormal":"220",
             "isNew":true,
             "img":"img/productos/product-10.jpg"
         },{
-            "nombre":"Mochila marrón camuflaje",
+            "nombre":"Mochila verde pasto",
             "clave":"MC-011",
             "precio":"185",
             "precioNormal":"220",
             "isNew":true,
             "img":"img/productos/product-11.jpg"
         },{
-            "nombre":"Mochila verde pasto",
+            "nombre":"Mochila selva verde",
             "clave":"MC-012",
             "precio":"185",
             "precioNormal":"220",
             "isNew":true,
             "img":"img/productos/product-12.jpg"
         },{
-            "nombre":"Mochila selva verde",
+            "nombre":"Mochila verde militar",
             "clave":"MC-013",
             "precio":"185",
             "precioNormal":"220",

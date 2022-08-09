@@ -99,12 +99,12 @@ function itmeProduct(itemProduct){
     item += `	<div class='product-item'>`;
     item += `		<div class='position-relative bg-light overflow-hidden'>`;
     item += `			<img class='img-fluid w-100' src='${itemProduct.img}' alt=''>`;
-    if(item.isNew){
+    if(itemProduct.isNew){
         item += `			<div class='bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3'>New</div>`;
     }
     item += `		</div>`;
     item += `		<div class='text-center p-4'>`;
-    item += `			<a class='d-block h5 mb-2' href=''>${itemProduct.nombre}</a>`;
+    item += `			<a class='d-block h5 mb-2' href='#'>${itemProduct.nombre}</a>`;
     item += `			<span class='text-primary me-1'>$${itemProduct.precio}</span>`;
     item += `			<span class='text-body text-decoration-line-through'>$${itemProduct.precioNormal}</span>`;
     item += `		</div>`;
