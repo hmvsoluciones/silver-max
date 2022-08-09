@@ -110,10 +110,10 @@ function itmeProduct(itemProduct){
     item += `		</div>`;
     item += `		<div class='d-flex border-top'>`;
     item += `			<small class='w-50 text-center border-end py-2'>`;
-    item += `				<a class='text-body' href=''>${itemProduct.clave}</a>`;
+    item += `				${itemProduct.clave}`;
     item += `			</small>`;
     item += `			<small class='w-50 text-center py-2'>`;
-    item += `				<a class='text-body' href=''><i class='fa fa-shopping-bag text-primary me-2'></i>Comprar</a>`;
+    item += `				<a class='text-body' target='_blank' href='https://api.whatsapp.com/send?phone=5215562137156&text=Me%20interesa%20su%20producto%3A%20${itemProduct.clave}'><i class='fa fa-shopping-bag text-primary me-2'></i>Comprar</a>`;
     item += `			</small>`;
     item += `		</div>`;
 	item += `  </div>`;
